@@ -1,0 +1,31 @@
+/* Headings: accent color */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-source-view .cm-header {
+  color: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+}
+
+/* Bold: accent color */
+.markdown-preview-view strong,
+.markdown-source-view .cm-strong {
+  color: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+}
+
+/* Italic: hue-shifted accent (+) */
+.markdown-preview-view em,
+.markdown-source-view .cm-em {
+  color: hsl(calc(var(--accent-h) + 30), var(--accent-s), var(--accent-l));
+}
+
+/* Links: hue-shifted accent (-) */
+.markdown-preview-view a.internal-link,
+.markdown-preview-view a.external-link,
+.markdown-source-view .cm-hmd-internal-link,
+.markdown-source-view .cm-url,
+.markdown-source-view .cm-link {
+  color: hsl(calc(var(--accent-h) - 30), var(--accent-s), var(--accent-l));
+}
