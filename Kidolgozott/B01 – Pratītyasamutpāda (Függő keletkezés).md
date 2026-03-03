@@ -19,7 +19,58 @@
 | Nincs "első ok" | Körforgás, nem lineáris lánc |
 | Nincs állandó szubsztancia | Minden változik |
 
-→ **Kapcsolódás:** [[CC10 – Aquinói Tamás kozmológiai érvei]] – Aquinói első mozgatója vs. buddhista körforgás
+> **Kapcsolódás:** [[CC10 – Aquinói Tamás kozmológiai érvei]] – Aquinói első mozgatója vs. buddhista körforgás
+
+### 1.3 Az okság törvénye (Law of Causation)
+
+A Buddha nem isteni teremtésként, hanem **ok-okozati viszonyrendszerként** értelmezi az univerzumot. Az okság négy eleme:
+
+| Elem | Szanszkrit | Jelentés | Példa |
+|------|------------|----------|-------|
+| **Elsődleges ok** | Hetu | A közvetlen ok | Mag |
+| **Másodlagos ok** | Pratyaya | Feltétel, körülmény | Víz, napfény, talaj |
+| **Hatás** | Phala | Az eredmény megjelenése | Csíra kinő |
+| **Visszahatás** | Vipāka | A hatás nyomot hagy | Érzés (kellemes/kellemetlen) |
+
+```
+ELSŐDLEGES OK + MÁSODLAGOS OK → HATÁS → VISSZAHATÁS
+     (mag)         (víz, föld)    (növény)   (gyümölcs/érzés)
+```
+
+> **Kulcs:** Ha az elsődleges ok megszűnik, VAGY nem találkozik másodlagos okkal → nincs hatás, nincs visszahatás.
+
+### 1.4 A mag-analógia (Śālistamba Sūtra)
+
+A **Rizs-csíra Szútra** a mahájána egyik legfontosabb forrása a függő keletkezésről:
+
+```
+         🌱 A MAG ANALÓGIA
+
+Mag ───────────────────────────────→ Növény
+ │                                        │
+ │   + föld                               │
+ │   + víz                                │
+ │   + napfény                            │
+ │   + levegő                             │
+ └─────── FELTÉTELEK ─────────────────────┘
+
+Tanulság:
+• A mag önmagában NEM hoz gyümölcsöt
+• Minden feltétel EGYÜTT szükséges
+• Bármelyik hiányzik → más eredmény
+```
+
+**A 12 nidānára alkalmazva:**
+
+| Analógia | Láncszem |
+|----------|----------|
+| Gazda (aki ültet) | Tudatlanság (avidyā) |
+| Mag | Formálódások (saṃskāra) |
+| Mező | Tudat (vijñāna) |
+| Nedvesség | Sóvárgás (tṛṣṇā) |
+| Csíra/hajtás | Név-és-forma (nāmarūpa) |
+
+> **„Apró magokból hatalmas fák nőhetnek – kis okok nagy hatásokat hozhatnak."**
 
 ---
 
@@ -57,20 +108,20 @@
 
 ### 2.2 Részletes táblázat
 
-| # | Szanszkrit | Magyar | Lényeg |
-|---|------------|--------|--------|
-| 1 | **Avidyā** | Tudatlanság | A valóság félreismerése; az "én" illúziója |
-| 2 | **Saṃskāra** | Formálódások | Karmikus lenyomatok, hajlamok, szokásminták |
-| 3 | **Vijñāna** | Tudat | Az újjászületést "hordozó" tudat |
-| 4 | **Nāmarūpa** | Név-és-forma | Mentális (név) + fizikai (forma) összetevők |
-| 5 | **Ṣaḍāyatana** | Hat érzékterület | 5 érzék + elme (manas) |
-| 6 | **Sparśa** | Érintkezés | Érzék + tárgy + tudat találkozása |
-| 7 | **Vedanā** | Érzet | Kellemes / kellemetlen / semleges |
-| 8 | **Tṛṣṇā** | Sóvárgás | Vágy a kellemesre, elutasítás a kellemetlentől |
-| 9 | **Upādāna** | Ragaszkodás | Kapaszkodás, birtoklási ösztön |
-| 10 | **Bhava** | Létesülés | Karmikus potenciál a következő létre |
-| 11 | **Jāti** | Születés | Új létforma kezdete |
-| 12 | **Jarāmaraṇa** | Öregség és halál | Szenvedés, gyász, fájdalom → vissza 1-hez |
+| #   | Szanszkrit     | Magyar           | Lényeg                                       |
+| --- | -------------- | ---------------- | -------------------------------------------- |
+| 1   | **Avidyā**     | Tudatlanság      | A valóság félreismerése; az "én" illúziója   |
+| 2   | **Saṃskāra**   | Formálódások     | Karmikus lenyomatok, hajlamok, szokásminták  |
+| 3   | **Vijñāna**    | Tudat            | Az újjászületést "hordozó" tudat             |
+| 4   | **Nāmarūpa**   | Név-és-forma     | Mentális (név) + fizikai (forma) összetevők  |
+| 5   | **Ṣaḍāyatana** | Hat érzékterület | 5 érzék + elme (manas)                       |
+| 6   | **Sparśa**     | Érintkezés       | Érzék + tárgy + tudat találkozása            |
+| 7   | **Vedanā**     | Érzet            | Kellemes / kellemetlen / semleges            |
+| 8   | **Tṛṣṇā**      | Sóvárgás         | Vágy a kellemesre, elutasítás a kellemetlent |
+| 9   | **Upādāna**    | Ragaszkodás      | Kapaszkodás, birtoklási ösztön               |
+| 10  | **Bhava**      | Létesülés        | Karmikus potenciált a következő létre        |
+| 11  | **Jāti**       | Születés         | Új létforma kezdete                          |
+| 12  | **Jarāmaraṇa** | Öregség és halál | Szenvedés, gyász, fájdalom → vissza 1-hez    |
 
 ---
 
@@ -99,7 +150,45 @@
 | **Jelen (3-10)** | Hogyan működik a jelenlegi tapasztalás |
 | **Jövő (11-12)** | Mi következik ebből az életből |
 
-→ **Kapcsolódás:** [[CC24 – Determinizmus vs. szabad akarat]] – a múlt kondicionálja a jelent, DE a lánc megszakítható (ld. 5. fejezet)
+> **Kapcsolódás:** [[CC24 – Determinizmus vs. szabad akarat]] – a múlt kondicionálja a jelent, DE a lánc megszakítható (ld. 5. fejezet)
+
+### 3.3 Három kategória szerinti felosztás
+
+A 12 láncszem **funkcionálisan** három csoportba osztható:
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    A 12 NIDĀNA HÁROM KATEGÓRIÁJA                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  SZENNYEZŐDÉSEK (Kleśa)         → A "mérgek"                    │
+│  ├─ 1. Tudatlanság (avidyā)                                     │
+│  ├─ 8. Sóvárgás (tṛṣṇā)                                         │
+│  └─ 9. Ragaszkodás (upādāna)                                    │
+│                                                                 │
+│  CSELEKEDETEK (Karma)           → A "magvetés"                  │
+│  ├─ 2. Formálódások (saṃskāra)                                  │
+│  └─ 10. Létesülés (bhava)                                       │
+│                                                                 │
+│  SZENVEDÉS (Duḥkha)             → Az "aratás"                   │
+│  ├─ 3. Tudat (vijñāna)                                          │
+│  ├─ 4. Név-és-forma (nāmarūpa)                                  │
+│  ├─ 5. Hat érzékterület (ṣaḍāyatana)                            │
+│  ├─ 6. Érintkezés (sparśa)                                      │
+│  ├─ 7. Érzet (vedanā)                                           │
+│  ├─ 11. Születés (jāti)                                         │
+│  └─ 12. Öregség és halál (jarāmaraṇa)                           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+| Kategória | Mit tesz? | Hol avatkozhatsz be? |
+|-----------|-----------|---------------------|
+| **Kleśa** | Szennyezi az elmét | Bölcsesség, éberség |
+| **Karma** | Karmikus magokat vet | Etikus cselekvés |
+| **Duḥkha** | A szenvedés megjelenik | Már késő – ez az eredmény |
+
+> **Lényeg:** A kleśák (szennyeződések) hajtják a karmát, a karma eredménye a duḥkha. **A beavatkozási pont: a kleśák.**
 
 ---
 
@@ -299,15 +388,27 @@ Kritika → [éberség: mit érzek?] → Tudatos válasz
 4. Mi a kapcsolat a pratītyasamutpāda és a śūnyatā között?
 5. Miben hasonlít Hume köteg-elmélete a buddhista anātman-ra?
 6. Miben különbözik a pratītyasamutpāda a kemény determinizmustól?
+7. Mi az okság törvényének (Law of Causation) négy eleme?
+8. Hogyan illusztrálja a mag-analógia a függő keletkezést?
+9. Mi a három kategória (kleśa, karma, duḥkha) és hogyan viszonyulnak egymáshoz?
+10. Miért a szennyeződések (kleśa) a fő beavatkozási pont?
 
 ---
 
 ## Források
 
+**Videó:**
+- [RKINA: Buddhism for Beginners 2 – Law of Causation / Dependent Origination (Animated)](https://www.youtube.com/watch?v=R8vpogkkz8o)
+
+**Szövegek és tanulmányok:**
 - [Wikipedia: Pratītyasamutpāda](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
-- [Tricycle: Dependent Origination](https://tricycle.org/magazine/dependent-origination/)
+- [Tricycle: Dependent Origination – The Twelve Links Explained](https://tricycle.org/magazine/dependent-origination/)
+- [Tricycle: Dependent Origination (Beginners)](https://tricycle.org/beginners/buddhism/dependent-origination/)
 - [Samye Institute: Twelve Links](https://www.samyeinstitute.org/wiki/dependent-arising/)
 - [Rigpa Wiki: Twelve Links](https://www.rigpawiki.org/index.php?title=Twelve_links_of_dependent_origination)
+- [BuddhaNet: Fundamentals of Buddhism – Dependent Origination](https://www.buddhanet.net/funbud12/)
+- [Rubin Museum: Causes and Conditions](https://rubinmuseum.org/causes-and-conditions/)
+- [Rissho Kosei-kai: The Law of Causation](https://rkhawaii.org/basic-teachings-of-buddhism/the-law-of-causation/)
 
 ---
 

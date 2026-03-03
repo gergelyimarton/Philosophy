@@ -13,7 +13,7 @@
 Példák: kosárlabda, sakk, D&D, orosz rulett
 DE: Mi a DEFINÍCIÓ?
 
-Verseny? → "Körbe-körbe rózsás" nem verseny
+Verseny? → "Körben áll egy kislány" (gyerekdal és játék) nem verseny
 2 játékos? → Pasziánsz 1 játékos
 Szórakozás? → Orosz rulett nem szórakoztató
 ```
@@ -85,9 +85,9 @@ Te és húgod nem hasonlítotok, DE mindketten hasonlítotok a szülőkre
 
 ### 4.4 Klaszter-fogalmak
 
-| Középpont (paradigma) | Széleken (vitatott) |
-|----------------------|---------------------|
-| Foci, sakk, kártya | Késdobálás? Lélegzetvisszatartás? |
+| Középpont (paradigma) | Szélsőségek (vitatott)            |
+| --------------------- | --------------------------------- |
+| Foci, sakk, kártya    | Késdobálás? Lélegzetvisszatartás? |
 
 ---
 

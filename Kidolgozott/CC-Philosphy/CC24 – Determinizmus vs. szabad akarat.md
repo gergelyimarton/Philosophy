@@ -117,7 +117,7 @@ Fizikai világ = determinisztikus
 ```
 Hiedelem: A zabkása egészséges
 + Vágy: Egészségesen akarок enni
-+ Temperamentum: Szeretek meleg, szénhidrátos ételeket
++ Temperamentum: Szeretek meleg, szénhidrátos ételeket enni
 ─────────────────────────────────────────────────────
 = Zabkása reggeli (determinált eredmény)
 ```

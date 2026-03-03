@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Kidolgozott/CC-Philosphy/CC26 – Nyelv és jelentés.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CC26 – Nyelv és jelentés"
+            }
+          },
+          {
+            "id": "27d015393f9be828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kidolgozott/B01 – Pratītyasamutpāda (Függő keletkezés).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B01 – Pratītyasamutpāda (Függő keletkezés)"
             }
           }
         ]
@@ -156,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Kidolgozott/CC-Philosphy/CC26 – Nyelv és jelentés.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of CC26 – Nyelv és jelentés"
             }
           }
         ],
@@ -180,15 +194,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "b795db98d238b497",
   "lastOpenFiles": [
-    "Kidolgozott/CC-Philosphy/CC01 – Mi a filozófia?.md",
-    "Kidolgozott/CC-Philosphy/CC00 – Preview.md",
+    "Kidolgozott/CC-Philosphy/CC25 – Kompatibilizmus.md",
     "Kidolgozott/B01 – Pratītyasamutpāda (Függő keletkezés).md",
-    "Kidolgozott/CC-Philosphy/CC23 – MI és személyiség.md"
+    "Kidolgozott/CC-Philosphy/CC24 – Determinizmus vs. szabad akarat.md",
+    "Kidolgozott/CC-Philosphy/CC23 – MI és személyiség.md",
+    "Kidolgozott/ST01 - The Philosophy of Stoicism.md",
+    "README.md",
+    "Kidolgozott/CC-Philosphy/CC01 – Mi a filozófia?.md",
+    "Kidolgozott/CC-Philosphy/CC00 – Preview.md"
   ]
 }

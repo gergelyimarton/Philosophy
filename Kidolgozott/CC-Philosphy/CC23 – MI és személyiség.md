@@ -64,13 +64,13 @@ Ahogy egymást is viselkedés alapján ítéljük meg
 
 ### 3.1 Harry, a robot
 
-| Harry tulajdonságai |
-|---------------------|
-| Élethű bőr |
-| Golfozik, brácsázik |
-| Ideges lesz |
-| Szeret drága gint |
-| Barátodnak tartod |
+| Harry tulajdonságai  |
+| -------------------- |
+| Élethű bőr           |
+| Golfozik, brácsázik  |
+| Ideges lesz          |
+| Szereti a drága gint |
+| Barátodnak tartod    |
 
 ### 3.2 A kérdés
 
